@@ -14,3 +14,5 @@ Status da Fila: Tela de acompanhamento em tempo real (posição na fila).
 Avaliação: Feedback sobre o atendimento no local.
 3. Fluxo Principal
 O usuário acessa o sistema, escolhe o estabelecimento desejado, entra na fila virtualmente, aguarda sua vez acompanhando o status pelo app e, ao final, avalia a experiência.
+## 📸 Evidência de Execução
+![Foto do meu terminal](prototipo.png)
